@@ -12,8 +12,8 @@ EXPRESS.JS
 Database:
 MONGO-DB
 
-Framework
+Framework:
 BOOTSTRAP
 
-Other
+Others:
 This project also have implemented with MVC Freamwork / REST API'S / AJAX /
